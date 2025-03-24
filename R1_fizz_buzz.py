@@ -18,3 +18,5 @@ for i in range(100):
         print("buzz")
     else:
         print(i)
+
+input("Introduce algo para cerrar el programa.\n")
